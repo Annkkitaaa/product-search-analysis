@@ -53,7 +53,7 @@ This analysis evaluates various metrics such as Click-Through Rates (CTR), searc
    - **Products:** Enhance visibility and click-through rates.
 5. Low-similarity products with high orders suggest alternative discovery mechanisms beyond direct query matching.
 ![image](https://github.com/user-attachments/assets/cdce2f38-f662-4df3-a8a5-4a9f8af5fc22)
-
+![image](https://github.com/user-attachments/assets/b494f15b-5cfe-4ffa-abbb-39c2b79fb773)
 
 
 ---
