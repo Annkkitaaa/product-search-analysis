@@ -103,6 +103,4 @@ product_search_analysis/
 
 ## Contributors
 - Ankita Singh
-```
 
-You can copy this directly into your `README.md` file. Let me know if you'd like to make further adjustments!
