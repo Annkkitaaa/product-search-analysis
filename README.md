@@ -1,6 +1,4 @@
-Here’s the README written in **Markdown** format:
 
-```markdown
 # Product Search Analysis
 
 ### Repository: **product_search_analysis**
