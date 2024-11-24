@@ -95,12 +95,5 @@ product_search_analysis/
 
 ---
 
-## Future Work
-- Explore additional metrics to refine query-product matching.
-- Investigate external factors like product pricing, reviews, and seasonal trends.
-- Develop models for predicting high-performing queries and products.
 
-
-## Contributors
-- Ankita Singh
 
